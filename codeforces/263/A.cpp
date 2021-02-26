@@ -1,29 +1,24 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+
 using namespace std;
 
-
-int main(){
-    vector<vector<int>> matrix;
-    int n;
-    for(int i = 0; i<5; i++){
-        vector<int> r;
-        for(int j = 0; j<5; j++){
-            cin>>n;
-            r.push_back(n);
+int main()
+{
+    int x,y,i,j,a[6][6],ans;
+    for(i=0;i<5;i++){
+        for(j=0;j<5;j++){
+            scanf("%d",&a[i][j]);
         }
-        matrix.push_back(r);
     }
-    int row = 0,col = 0;
-    for(int i =0; i<5; i++){
-        for(int j = 0; j<5; j++){
-            if(matrix[i][j]==1){
-                row=i;
-                col=j;
-                break;
+    for(i=0;i<5;i++){
+        for(j=0;j<5;j++){
+            if(a[i][j]==1){
+                x=i+1;
+                y=j+1;
             }
         }
     }
-    int ans = abs(3-(row+1))+abs(3-(col+1));
-    cout<<ans;
-    
+    ans=abs(x-3)+abs(y-3);
+    printf("%d\n",ans);
+    return 0;
 }
