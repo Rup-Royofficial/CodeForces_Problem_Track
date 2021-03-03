@@ -1,4 +1,22 @@
 {
+  "CF109028401": {
+    "contest_id": 546,
+    "language": "Python 3",
+    "path": "codeforces\\546\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Soldier and Bananas",
+    "problem_url": "https://codeforces.com/contest/546/problem/A",
+    "submission_id": "CF109028401",
+    "submission_url": "https://codeforces.com/contest/546/submission/109028401",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2021 22:46"
+  },
   "CF109109767": {
     "contest_id": 791,
     "language": "Python 3",
