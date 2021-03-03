@@ -1,4 +1,20 @@
 {
+  "CF109021063": {
+    "contest_id": 266,
+    "language": "Clang++17 Diagnostics",
+    "path": "codeforces\\266\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stones on the Table",
+    "problem_url": "https://codeforces.com/contest/266/problem/A",
+    "submission_id": "CF109021063",
+    "submission_url": "https://codeforces.com/contest/266/submission/109021063",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2021 21:12"
+  },
   "CF109028401": {
     "contest_id": 546,
     "language": "Python 3",
