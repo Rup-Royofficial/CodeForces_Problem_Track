@@ -1,4 +1,21 @@
 {
+  "CF109964345": {
+    "contest_id": 59,
+    "language": "Python 3",
+    "path": "codeforces\\59\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Word",
+    "problem_url": "https://codeforces.com/contest/59/problem/A",
+    "submission_id": "CF109964345",
+    "submission_url": "https://codeforces.com/contest/59/submission/109964345",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/14/2021 16:29"
+  },
   "CF111301804": {
     "contest_id": 266,
     "language": "Python 3",
