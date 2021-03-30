@@ -1,4 +1,21 @@
 {
+  "CF111496359": {
+    "contest_id": 41,
+    "language": "Python 3",
+    "path": "codeforces\\41\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Translation",
+    "problem_url": "https://codeforces.com/contest/41/problem/A",
+    "submission_id": "CF111496359",
+    "submission_url": "https://codeforces.com/contest/41/submission/111496359",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/30/2021 22:38"
+  },
   "CF111584763": {
     "contest_id": 271,
     "language": "Python 3",
