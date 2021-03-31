@@ -1,4 +1,21 @@
 {
+  "CF111586346": {
+    "contest_id": 734,
+    "language": "Python 3",
+    "path": "codeforces\\734\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anton and Danik",
+    "problem_url": "https://codeforces.com/contest/734/problem/A",
+    "submission_id": "CF111586346",
+    "submission_url": "https://codeforces.com/contest/734/submission/111586346",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/31/2021 23:33"
+  },
   "CF111740786": {
     "contest_id": 467,
     "language": "Python 3",
