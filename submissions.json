@@ -1,4 +1,21 @@
 {
+  "CF112257005": {
+    "contest_id": 96,
+    "language": "Python 3",
+    "path": "codeforces\\96\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Football",
+    "problem_url": "https://codeforces.com/contest/96/problem/A",
+    "submission_id": "CF112257005",
+    "submission_url": "https://codeforces.com/contest/96/submission/112257005",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Apr/08/2021 00:58"
+  },
   "CF112352381": {
     "contest_id": 133,
     "language": "Python 3",
