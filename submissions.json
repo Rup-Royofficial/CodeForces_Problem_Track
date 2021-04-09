@@ -1,4 +1,20 @@
 {
+  "CF112352381": {
+    "contest_id": 133,
+    "language": "Python 3",
+    "path": "codeforces\\133\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/133/problem/A",
+    "submission_id": "CF112352381",
+    "submission_url": "https://codeforces.com/contest/133/submission/112352381",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/09/2021 10:50"
+  },
   "CF112383247": {
     "contest_id": 580,
     "language": "Python 3",
