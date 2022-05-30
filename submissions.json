@@ -1,4 +1,21 @@
 {
+  "CF158839517": {
+    "contest_id": 1512,
+    "language": "GNU C++14",
+    "path": "codeforces\\1512\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Spy Detected!",
+    "problem_url": "https://codeforces.com/contest/1512/problem/A",
+    "submission_id": "CF158839517",
+    "submission_url": "https://codeforces.com/contest/1512/submission/158839517",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/30/2022 08:12"
+  },
   "CF158845175": {
     "contest_id": 476,
     "language": "GNU C++14",
