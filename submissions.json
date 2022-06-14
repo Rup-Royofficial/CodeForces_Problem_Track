@@ -1,4 +1,19 @@
 {
+  "CF160574727": {
+    "contest_id": 1692,
+    "language": "GNU C++14",
+    "path": "codeforces\\1692\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Marathon",
+    "problem_url": "https://codeforces.com/contest/1692/problem/A",
+    "submission_id": "CF160574727",
+    "submission_url": "https://codeforces.com/contest/1692/submission/160574727",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Jun/14/2022 20:39"
+  },
   "CF160574953": {
     "contest_id": 1692,
     "language": "GNU C++14",
