@@ -1,11 +1,3 @@
-// Problem: C. Registration system
-// Contest: Codeforces - Codeforces Beta Round #4 (Div. 2 Only)
-// URL: https://codeforces.com/contest/4/problem/C
-// Memory Limit: 64 MB
-// Time Limit: 5000 ms
-// 
-// Powered by CP Editor (https://cpeditor.org)
-
 #include<bits/stdc++.h>
 using namespace std;
 
