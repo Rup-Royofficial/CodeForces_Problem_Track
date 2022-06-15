@@ -13,14 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
 68 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [GNU C++17](./codeforces/1030/A.cpp) | `implementation` `*800` | Jun/16/2022 07:43 | 
-67 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [GNU C++17](./codeforces/466/A.cpp) | `implementation` `*1200` | Jun/15/2022 12:56 | 
-66 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [GNU C++17](./codeforces/263/A.cpp) | `implementation` `*800` | Jun/15/2022 10:58 | 
-65 | [A - Bit++](https://codeforces.com/contest/282/problem/A) | [GNU C++17](./codeforces/282/A.cpp) | `implementation` `*800` | Jun/15/2022 09:59 | 
-64 | [A - Next Round](https://codeforces.com/contest/158/problem/A) | [GNU C++14](./codeforces/158/A.cpp) | `*special problem` `implementation` `*800` | Jun/15/2022 08:11 | 
-63 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [GNU C++14](./codeforces/71/A.cpp) | `strings` `*800` | Jun/15/2022 07:09 | 
-62 | [D - The Clock](https://codeforces.com/contest/1692/problem/D) | [GNU C++14](./codeforces/1692/D.cpp) | `brute force` `implementation` | Jun/14/2022 22:21 | 
-61 | [E - Binary Deque](https://codeforces.com/contest/1692/problem/E) | [GNU C++14](./codeforces/1692/E.cpp) | `binary search` `implementation` `two pointers` | Jun/14/2022 21:32 | 
-60 | [F - 3SUM](https://codeforces.com/contest/1692/problem/F) | [GNU C++14](./codeforces/1692/F.cpp) | `brute force` `math` | Jun/14/2022 21:27 | 
+67 | [F - 3SUM](https://codeforces.com/contest/1692/problem/F) | [GNU C++17](./codeforces/1692/F.cpp) | `brute force` `math` | Jun/15/2022 21:35 | 
+66 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [GNU C++17](./codeforces/466/A.cpp) | `implementation` `*1200` | Jun/15/2022 12:56 | 
+65 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [GNU C++17](./codeforces/263/A.cpp) | `implementation` `*800` | Jun/15/2022 10:58 | 
+64 | [A - Bit++](https://codeforces.com/contest/282/problem/A) | [GNU C++17](./codeforces/282/A.cpp) | `implementation` `*800` | Jun/15/2022 09:59 | 
+63 | [A - Next Round](https://codeforces.com/contest/158/problem/A) | [GNU C++14](./codeforces/158/A.cpp) | `*special problem` `implementation` `*800` | Jun/15/2022 08:11 | 
+62 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [GNU C++14](./codeforces/71/A.cpp) | `strings` `*800` | Jun/15/2022 07:09 | 
+61 | [D - The Clock](https://codeforces.com/contest/1692/problem/D) | [GNU C++14](./codeforces/1692/D.cpp) | `brute force` `implementation` | Jun/14/2022 22:21 | 
+60 | [E - Binary Deque](https://codeforces.com/contest/1692/problem/E) | [GNU C++14](./codeforces/1692/E.cpp) | `binary search` `implementation` `two pointers` | Jun/14/2022 21:32 | 
 59 | [C - Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) | [GNU C++14](./codeforces/1692/C.cpp) | `implementation` | Jun/14/2022 21:22 | 
 58 | [A - Marathon](https://codeforces.com/contest/1692/problem/A) | [GNU C++14](./codeforces/1692/A.cpp) | `implementation` | Jun/14/2022 20:39 | 
 57 | [B - All Distinct](https://codeforces.com/contest/1692/problem/B) | [GNU C++14](./codeforces/1692/B.cpp) | `greedy` `sortings` | Jun/14/2022 20:39 | 
