@@ -6,7 +6,6 @@ int main(){
     cin>>query;
     int x = 0;
     string i;
-    
     while(query--){
         cin>>i;
         for(int j = 0; j<i.size(); j++){
