@@ -18,8 +18,8 @@ int main(){
 		cin>>a;
 		v.push_back(a);
 	}
-	for(int i = 0; i<n; i++){
-		if(v[i]>=v[k-1] && v[i]>0) {
+	for(int j = 0; j<n; j++){
+		if(v[j]>=v[k-1] && v[j]>0) {
 			count++;
 		}
 	}
