@@ -16,6 +16,5 @@ int main(){
             sum--;
     }
 
-
     cout<<sum<<endl;
 } // namespace std
