@@ -6,13 +6,13 @@ int main(){
     cin >> noCity >> pos;
     vector<int> cities(noCity);
 
-    for(int i = 1; i <=noCity; i++) {
+    for(int i = 0; i < noCity; i++) {
         cin>>cities[i];
         sum+=cities[i];
     }
 
-    for(int i = 1; i<pos && i<=(noCity-pos); i++) {
-        if(cities[pos-i]+cities[pos+i]  == 1)
+    for(int i = 0; i<pos && i<=(noCity-pos); i++) {
+        if(cities[pos-i-1]+cities[pos+i-1]  == 1)
             sum--;
     }
 
