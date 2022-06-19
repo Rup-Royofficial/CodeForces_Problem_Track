@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+71 | [A - Punctuation](https://codeforces.com/contest/147/problem/A) | [GNU C++17](./codeforces/147/A.cpp) | `implementation` `strings` `*1300` | Jun/19/2022 12:47 | 
 70 | [A - Wet Shark and Odd and Even](https://codeforces.com/contest/621/problem/A) | [GNU C++17](./codeforces/621/A.cpp) | `implementation` `*900` | Jun/17/2022 20:58 | 
 69 | [A - Pangram](https://codeforces.com/contest/520/problem/A) | [GNU C++17](./codeforces/520/A.cpp) | `implementation` `strings` `*800` | Jun/17/2022 20:28 | 
 68 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [GNU C++17](./codeforces/1030/A.cpp) | `implementation` `*800` | Jun/16/2022 07:43 | 
