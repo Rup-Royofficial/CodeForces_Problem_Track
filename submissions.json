@@ -1471,5 +1471,22 @@
       "*1300"
     ],
     "timestamp": "Jun/19/2022 12:47"
+  },
+  "CF161331113": {
+    "contest_id": 1201,
+    "language": "GNU C++17",
+    "path": "codeforces\\1201\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Important Exam",
+    "problem_url": "https://codeforces.com/contest/1201/problem/A",
+    "submission_id": "CF161331113",
+    "submission_url": "https://codeforces.com/contest/1201/submission/161331113",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jun/20/2022 23:20"
   }
 }
