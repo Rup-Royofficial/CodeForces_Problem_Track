@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+77 | [C - Alphabetic Removals](https://codeforces.com/contest/999/problem/C) | [GNU C++17](./codeforces/999/C.cpp) | `implementation` `*1200` | Jun/21/2022 11:41 | 
 76 | [A - Important Exam](https://codeforces.com/contest/1201/problem/A) | [GNU C++17](./codeforces/1201/A.cpp) | `implementation` `strings` `*900` | Jun/20/2022 23:20 | 
 75 | [A - Reachable Numbers](https://codeforces.com/contest/1157/problem/A) | [GNU C++17](./codeforces/1157/A.cpp) | `implementation` `*1100` | Jun/20/2022 20:40 | 
 74 | [A - Punctuation](https://codeforces.com/contest/147/problem/A) | [GNU C++17](./codeforces/147/A.cpp) | `implementation` `strings` `*1300` | Jun/19/2022 12:47 | 
