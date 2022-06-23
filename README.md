@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-81 | [A - Inna and Choose Options](https://codeforces.com/contest/400/problem/A) | [GNU C++17](./codeforces/400/A.cpp) | `implementation` `*1000` | Jun/23/2022 12:47 | 
+82 | [A - Inna and Choose Options](https://codeforces.com/contest/400/problem/A) | [GNU C++17](./codeforces/400/A.cpp) | `implementation` `*1000` | Jun/23/2022 12:47 | 
+81 | [B - Guess the Permutation](https://codeforces.com/contest/618/problem/B) | [GNU C++17](./codeforces/618/B.cpp) | `constructive algorithms` `*1100` | Jun/23/2022 09:21 | 
 80 | [A - Infinite Sequence](https://codeforces.com/contest/675/problem/A) | [GNU C++17](./codeforces/675/A.cpp) | `math` `*1100` | Jun/23/2022 00:02 | 
 79 | [A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [GNU C++17](./codeforces/977/A.cpp) | `implementation` `*800` | Jun/21/2022 12:20 | 
 78 | [C - Alphabetic Removals](https://codeforces.com/contest/999/problem/C) | [GNU C++17](./codeforces/999/C.cpp) | `implementation` `*1200` | Jun/21/2022 11:41 | 
