@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-83 | [A - Display The Number](https://codeforces.com/contest/1295/problem/A) | [GNU C++17](./codeforces/1295/A.cpp) | `greedy` `*900` | Jun/24/2022 23:29 | 
+84 | [A - Display The Number](https://codeforces.com/contest/1295/problem/A) | [GNU C++17](./codeforces/1295/A.cpp) | `greedy` `*900` | Jun/24/2022 23:29 | 
+83 | [A - Visiting a Friend](https://codeforces.com/contest/902/problem/A) | [GNU C++17](./codeforces/902/A.cpp) | `greedy` `implementation` `*1100` | Jun/24/2022 21:05 | 
 82 | [A - Inna and Choose Options](https://codeforces.com/contest/400/problem/A) | [GNU C++17](./codeforces/400/A.cpp) | `implementation` `*1000` | Jun/23/2022 12:47 | 
 81 | [B - Guess the Permutation](https://codeforces.com/contest/618/problem/B) | [GNU C++17](./codeforces/618/B.cpp) | `constructive algorithms` `*1100` | Jun/23/2022 09:21 | 
 80 | [A - Infinite Sequence](https://codeforces.com/contest/675/problem/A) | [GNU C++17](./codeforces/675/A.cpp) | `math` `*1100` | Jun/23/2022 00:02 | 
