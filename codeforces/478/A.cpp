@@ -1,11 +1,3 @@
-/*
-
-The main idea of ​​the topic: 
-  everyone who plays the game has the same amount of coins at the initial moment. 
-  Now the final state is given. Can I find the initial state for each person?
-
-*/
-
 #include<bits/stdc++.h>
 using namespace std;
 
