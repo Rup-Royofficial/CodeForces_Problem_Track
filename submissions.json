@@ -1685,5 +1685,21 @@
       "*900"
     ],
     "timestamp": "Jun/24/2022 23:29"
+  },
+  "CF161943084": {
+    "contest_id": 606,
+    "language": "GNU C++17",
+    "path": "codeforces\\606\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magic Spheres",
+    "problem_url": "https://codeforces.com/contest/606/problem/A",
+    "submission_id": "CF161943084",
+    "submission_url": "https://codeforces.com/contest/606/submission/161943084",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jun/27/2022 16:57"
   }
 }
