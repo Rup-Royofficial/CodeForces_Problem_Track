@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-94 | [D - Prizes, Prizes, more Prizes](https://codeforces.com/contest/208/problem/D) | [GNU C++17](./codeforces/208/D.cpp) | `implementation` `*1200` | Jul/01/2022 22:12 | 
-93 | [B - Petya and Square](https://codeforces.com/contest/112/problem/B) | [GNU C++17](./codeforces/112/B.cpp) | `implementation` `math` `*1200` | Jul/01/2022 14:17 | 
-92 | [A - Taymyr is calling you](https://codeforces.com/contest/764/problem/A) | [GNU C++17](./codeforces/764/A.cpp) | `brute force` `implementation` `math` `*800` | Jul/01/2022 11:41 | 
-91 | [A - Andryusha and Socks](https://codeforces.com/contest/782/problem/A) | [GNU C++17](./codeforces/782/A.cpp) | `implementation` `*800` | Jul/01/2022 10:13 | 
+95 | [D - Prizes, Prizes, more Prizes](https://codeforces.com/contest/208/problem/D) | [GNU C++17](./codeforces/208/D.cpp) | `implementation` `*1200` | Jul/01/2022 22:12 | 
+94 | [B - Petya and Square](https://codeforces.com/contest/112/problem/B) | [GNU C++17](./codeforces/112/B.cpp) | `implementation` `math` `*1200` | Jul/01/2022 14:17 | 
+93 | [A - Taymyr is calling you](https://codeforces.com/contest/764/problem/A) | [GNU C++17](./codeforces/764/A.cpp) | `brute force` `implementation` `math` `*800` | Jul/01/2022 11:41 | 
+92 | [A - Andryusha and Socks](https://codeforces.com/contest/782/problem/A) | [GNU C++17](./codeforces/782/A.cpp) | `implementation` `*800` | Jul/01/2022 10:13 | 
+91 | [A - Pineapple Incident](https://codeforces.com/contest/697/problem/A) | [GNU C++17](./codeforces/697/A.cpp) | `implementation` `math` `*900` | Jun/30/2022 23:09 | 
 90 | [A - Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A) | [GNU C++17](./codeforces/766/A.cpp) | `constructive algorithms` `strings` `*1000` | Jun/29/2022 00:00 | 
 89 | [A - Magic Spheres](https://codeforces.com/contest/606/problem/A) | [GNU C++17](./codeforces/606/A.cpp) | `implementation` `*1200` | Jun/27/2022 16:57 | 
 88 | [A - Vitya in the Countryside](https://codeforces.com/contest/719/problem/A) | [GNU C++17](./codeforces/719/A.cpp) | `implementation` `*1100` | Jun/26/2022 10:07 | 
