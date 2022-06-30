@@ -1817,6 +1817,23 @@
     ],
     "timestamp": "Jun/29/2022 00:00"
   },
+  "CF162359802": {
+    "contest_id": 1331,
+    "language": "GNU C++17",
+    "path": "codeforces\\1331\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Limericks",
+    "problem_url": "https://codeforces.com/contest/1331/problem/B",
+    "submission_id": "CF162359802",
+    "submission_url": "https://codeforces.com/contest/1331/submission/162359802",
+    "tags": [
+      "*special problem",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jun/30/2022 21:43"
+  },
   "CF162367390": {
     "contest_id": 697,
     "language": "GNU C++17",
