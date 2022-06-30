@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-96 | [D - Prizes, Prizes, more Prizes](https://codeforces.com/contest/208/problem/D) | [GNU C++17](./codeforces/208/D.cpp) | `implementation` `*1200` | Jul/01/2022 22:12 | 
-95 | [B - Petya and Square](https://codeforces.com/contest/112/problem/B) | [GNU C++17](./codeforces/112/B.cpp) | `implementation` `math` `*1200` | Jul/01/2022 14:17 | 
-94 | [A - Taymyr is calling you](https://codeforces.com/contest/764/problem/A) | [GNU C++17](./codeforces/764/A.cpp) | `brute force` `implementation` `math` `*800` | Jul/01/2022 11:41 | 
-93 | [A - Andryusha and Socks](https://codeforces.com/contest/782/problem/A) | [GNU C++17](./codeforces/782/A.cpp) | `implementation` `*800` | Jul/01/2022 10:13 | 
-92 | [A - Pineapple Incident](https://codeforces.com/contest/697/problem/A) | [GNU C++17](./codeforces/697/A.cpp) | `implementation` `math` `*900` | Jun/30/2022 23:09 | 
-91 | [B - Limericks](https://codeforces.com/contest/1331/problem/B) | [GNU C++17](./codeforces/1331/B.cpp) | `*special problem` `math` `number theory` | Jun/30/2022 21:43 | 
+97 | [D - Prizes, Prizes, more Prizes](https://codeforces.com/contest/208/problem/D) | [GNU C++17](./codeforces/208/D.cpp) | `implementation` `*1200` | Jul/01/2022 22:12 | 
+96 | [B - Petya and Square](https://codeforces.com/contest/112/problem/B) | [GNU C++17](./codeforces/112/B.cpp) | `implementation` `math` `*1200` | Jul/01/2022 14:17 | 
+95 | [A - Taymyr is calling you](https://codeforces.com/contest/764/problem/A) | [GNU C++17](./codeforces/764/A.cpp) | `brute force` `implementation` `math` `*800` | Jul/01/2022 11:41 | 
+94 | [A - Andryusha and Socks](https://codeforces.com/contest/782/problem/A) | [GNU C++17](./codeforces/782/A.cpp) | `implementation` `*800` | Jul/01/2022 10:13 | 
+93 | [A - Pineapple Incident](https://codeforces.com/contest/697/problem/A) | [GNU C++17](./codeforces/697/A.cpp) | `implementation` `math` `*900` | Jun/30/2022 23:09 | 
+92 | [B - Limericks](https://codeforces.com/contest/1331/problem/B) | [GNU C++17](./codeforces/1331/B.cpp) | `*special problem` `math` `number theory` | Jun/30/2022 21:43 | 
+91 | [A - Is it rated?](https://codeforces.com/contest/1331/problem/A) | [GNU C++17](./codeforces/1331/A.cpp) | `*special problem` | Jun/30/2022 19:45 | 
 90 | [A - Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A) | [GNU C++17](./codeforces/766/A.cpp) | `constructive algorithms` `strings` `*1000` | Jun/29/2022 00:00 | 
 89 | [A - Magic Spheres](https://codeforces.com/contest/606/problem/A) | [GNU C++17](./codeforces/606/A.cpp) | `implementation` `*1200` | Jun/27/2022 16:57 | 
 88 | [A - Vitya in the Countryside](https://codeforces.com/contest/719/problem/A) | [GNU C++17](./codeforces/719/A.cpp) | `implementation` `*1100` | Jun/26/2022 10:07 | 
