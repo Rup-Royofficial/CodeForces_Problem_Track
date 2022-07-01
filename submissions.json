@@ -1816,5 +1816,21 @@
       "*1000"
     ],
     "timestamp": "Jun/29/2022 00:00"
+  },
+  "CF162466664": {
+    "contest_id": 208,
+    "language": "GNU C++17",
+    "path": "codeforces\\208\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Prizes, Prizes, more Prizes",
+    "problem_url": "https://codeforces.com/contest/208/problem/D",
+    "submission_id": "CF162466664",
+    "submission_url": "https://codeforces.com/contest/208/submission/162466664",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/01/2022 22:12"
   }
 }
