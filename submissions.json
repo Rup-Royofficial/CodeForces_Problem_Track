@@ -2068,6 +2068,23 @@
     ],
     "timestamp": "Jul/03/2022 14:22"
   },
+  "CF162768993": {
+    "contest_id": 1699,
+    "language": "GNU C++17",
+    "path": "codeforces\\1699\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Third Three Number Problem",
+    "problem_url": "https://codeforces.com/contest/1699/problem/A",
+    "submission_id": "CF162768993",
+    "submission_url": "https://codeforces.com/contest/1699/submission/162768993",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/04/2022 20:20"
+  },
   "CF162854257": {
     "contest_id": 556,
     "language": "GNU C++17",
