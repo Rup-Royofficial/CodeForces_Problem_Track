@@ -12,14 +12,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-113 | [A - Omkar and Password](https://codeforces.com/contest/1392/problem/A) | [GNU C++17](./codeforces/1392/A.cpp) | `greedy` `math` `*800` | Jul/05/2022 22:56 | 
-112 | [B - Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | [GNU C++17](./codeforces/766/B.cpp) | `constructive algorithms` `geometry` `greedy` `math` `number theory` `sortings` `*1000` | Jul/05/2022 21:53 | 
-111 | [A - Asphalting Roads](https://codeforces.com/contest/583/problem/A) | [GNU C++17](./codeforces/583/A.cpp) | `implementation` `*1000` | Jul/05/2022 20:46 | 
-110 | [A - Is it rated?](https://codeforces.com/contest/807/problem/A) | [GNU C++17](./codeforces/807/A.cpp) | `implementation` `sortings` `*900` | Jul/05/2022 11:53 | 
-109 | [A - Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | [GNU C++17](./codeforces/556/A.cpp) | `greedy` `*900` | Jul/05/2022 11:22 | 
-108 | [A - The Third Three Number Problem](https://codeforces.com/contest/1699/problem/A) | [GNU C++17](./codeforces/1699/A.cpp) | `constructive algorithms` `math` `*800` | Jul/04/2022 20:20 | 
-107 | [A - Bus Game](https://codeforces.com/contest/79/problem/A) | [GNU C++17](./codeforces/79/A.cpp) | `greedy` `*1200` | Jul/04/2022 18:23 | 
-106 | [A - Buses Between Cities](https://codeforces.com/contest/665/problem/A) | [GNU C++17](./codeforces/665/A.cpp) | `implementation` `*1600` | Jul/04/2022 15:26 | 
+114 | [A - Omkar and Password](https://codeforces.com/contest/1392/problem/A) | [GNU C++17](./codeforces/1392/A.cpp) | `greedy` `math` `*800` | Jul/05/2022 22:56 | 
+113 | [B - Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | [GNU C++17](./codeforces/766/B.cpp) | `constructive algorithms` `geometry` `greedy` `math` `number theory` `sortings` `*1000` | Jul/05/2022 21:53 | 
+112 | [A - Asphalting Roads](https://codeforces.com/contest/583/problem/A) | [GNU C++17](./codeforces/583/A.cpp) | `implementation` `*1000` | Jul/05/2022 20:46 | 
+111 | [A - Is it rated?](https://codeforces.com/contest/807/problem/A) | [GNU C++17](./codeforces/807/A.cpp) | `implementation` `sortings` `*900` | Jul/05/2022 11:53 | 
+110 | [A - Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | [GNU C++17](./codeforces/556/A.cpp) | `greedy` `*900` | Jul/05/2022 11:22 | 
+109 | [A - The Third Three Number Problem](https://codeforces.com/contest/1699/problem/A) | [GNU C++17](./codeforces/1699/A.cpp) | `constructive algorithms` `math` `*800` | Jul/04/2022 20:20 | 
+108 | [A - Bus Game](https://codeforces.com/contest/79/problem/A) | [GNU C++17](./codeforces/79/A.cpp) | `greedy` `*1200` | Jul/04/2022 18:23 | 
+107 | [A - Buses Between Cities](https://codeforces.com/contest/665/problem/A) | [GNU C++17](./codeforces/665/A.cpp) | `implementation` `*1600` | Jul/04/2022 15:26 | 
+106 | [A - Sagheer and Crossroads](https://codeforces.com/contest/812/problem/A) | [GNU C++17](./codeforces/812/A.cpp) | `implementation` `*1200` | Jul/04/2022 10:24 | 
 105 | [B - AquaMoon and Stolen String](https://codeforces.com/contest/1546/problem/B) | [GNU C++17](./codeforces/1546/B.cpp) | `interactive` `math` `*1200` | Jul/03/2022 14:22 | 
 104 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++17](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` | Jul/02/2022 23:51 | 
 103 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [GNU C++17](./codeforces/1475/B.cpp) | `brute force` `dp` `math` `*900` | Jul/02/2022 23:13 | 
